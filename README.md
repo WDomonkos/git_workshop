@@ -1,1 +1,3 @@
-# git_workshop
+# git_workshop Domi
+# somlói 
+# kaja
