@@ -1,5 +1,5 @@
-# git_workshop Domi
-# git_workshop
+# git_workshop Domi   Dicsak More
+# git_wokshop
 # somlói 
 # kaja
 # nem tudom mit írjak
